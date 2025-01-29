@@ -1,0 +1,17 @@
+# Contents of the file: /moon-chatbot/moon-chatbot/.dockerignore
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+*.local
+*.log
+*.sqlite3
+.DS_Store
+.vscode/
+.idea/
+*.egg-info/
+dist/
+build/
